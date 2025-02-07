@@ -4,7 +4,7 @@ Shopify Embed XLM Coupon Widget
 
 ## Demo
 
-[Screencapture demo on Youtube]()
+[Screencapture demo on Youtube](https://www.youtube.com/watch?v=jPjiM3ktRNY)
 
 ## Embed XLM Payment + Cupons Widget in Shopify
 
